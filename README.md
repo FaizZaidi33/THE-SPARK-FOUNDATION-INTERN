@@ -1,4 +1,4 @@
-# THE-SPARK-FOUNDATION-INTERN
+# THE-SPARKS-FOUNDATION-INTERN
 
 LinkedIn : https://www.linkedin.com/in/faiz-zaidi-1a6a76200/
 Internship Task : Create a Hybrid Model for Stock Price / Performance  Prediction using Numerical Analysis of Historical stock price and Sentimental Analysis
